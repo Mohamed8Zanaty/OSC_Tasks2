@@ -1,0 +1,16 @@
+mkdir mohamed
+cd mohamed
+touch one.txt tow.txt three.txt four.txt
+mkdir BAD
+mkdir BAD/bad.txt
+mv one.txt ~/Downloads
+cd ~/Downloads
+cp one.txt copy.txt
+cd -
+nano two.txt
+nano three.txt
+mv three.txt hello.txt
+rm four.txt
+rm -r BAD
+
+   
