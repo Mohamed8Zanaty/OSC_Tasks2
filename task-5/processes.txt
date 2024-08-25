@@ -1,0 +1,233 @@
+    PID CMD
+    745 avahi-daemon: chroot helper
+    711 avahi-daemon: running [zanaty8.local]
+   2068 /bin/bash
+   2455 /bin/bash
+   1808 /bin/sh -c env QT_QPA_PLATFORMTHEME=lxqt /usr/libexec/xdg-desktop-portal-lxqt
+    470 [card2-crtc0]
+    471 [card2-crtc1]
+    472 [card2-crtc2]
+   3023 cat
+   3024 cat
+     20 [cpuhp/0]
+     27 [cpuhp/1]
+     21 [cpuhp/2]
+     33 [cpuhp/3]
+    716 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+   5885 dbus-launch --autolaunch 680ddf4ba40044eda4d1478037a88477 --binary-syntax --close-stderr
+     66 [ecryptfs-kthread]
+   1791 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+   6032 gpg-agent --homedir /var/lib/fwupd/gnupg --use-standard-socket --daemon
+     19 [idle_inject/0]
+     28 [idle_inject/1]
+     22 [idle_inject/2]
+     34 [idle_inject/3]
+    425 [irq/33-mei_me]
+     54 [irq/9-acpi]
+    244 [jbd2/sda2-8]
+     42 [kauditd]
+     47 [kcompactd0]
+     39 [kdevtmpfs]
+     50 [khugepaged]
+     43 [khungtaskd]
+     48 [ksmd]
+     16 [ksoftirqd/0]
+     30 [ksoftirqd/1]
+     24 [ksoftirqd/2]
+     36 [ksoftirqd/3]
+     65 [kswapd0]
+      2 [kthreadd]
+    430 [ktpacpi_nvramd]
+   9496 [kworker/0:0]
+   9330 [kworker/0:1-events]
+   7827 [kworker/0:1H-kblockd]
+   9191 [kworker/0:2-events_freezable]
+   5837 [kworker/0:2H-kblockd]
+     32 [kworker/1:0H-events_highpri]
+     31 [kworker/1:0-mm_percpu_wq]
+   9434 [kworker/1:1-events]
+     73 [kworker/1:1H-kblockd]
+   9289 [kworker/1:2-events]
+     26 [kworker/2:0H-events_highpri]
+    129 [kworker/2:1H-kblockd]
+   9007 [kworker/2:1-i915-unordered]
+   9328 [kworker/2:3-i915-unordered]
+   9453 [kworker/3:0-events]
+     38 [kworker/3:0H-events_highpri]
+     55 [kworker/3:1-events]
+     64 [kworker/3:1H-kblockd]
+   9324 [kworker/3:2-events]
+     68 [kworker/R-acpi_]
+     58 [kworker/R-ata_s]
+     53 [kworker/R-blkcg]
+    408 [kworker/R-cfg80]
+    101 [kworker/R-charg]
+     89 [kworker/R-crypt]
+     62 [kworker/R-devfr]
+     61 [kworker/R-edac-]
+    245 [kworker/R-ext4-]
+     40 [kworker/R-inet_]
+     74 [kworker/R-ipv6_]
+     52 [kworker/R-kbloc]
+     51 [kworker/R-kinte]
+     82 [kworker/R-kstrp]
+     67 [kworker/R-kthro]
+    429 [kworker/R-ktpac]
+     59 [kworker/R-md]
+     60 [kworker/R-md_bi]
+     72 [kworker/R-mld]
+     12 [kworker/R-mm_pe]
+      7 [kworker/R-netns]
+      4 [kworker/R-rcu_g]
+      5 [kworker/R-rcu_p]
+    162 [kworker/R-scsi_]
+    164 [kworker/R-scsi_]
+    167 [kworker/R-scsi_]
+    169 [kworker/R-scsi_]
+    172 [kworker/R-scsi_]
+      6 [kworker/R-slub_]
+     57 [kworker/R-tpm_d]
+    467 [kworker/R-ttm]
+    469 [kworker/R-ttm]
+     46 [kworker/R-write]
+   9210 [kworker/u16:0-events_unbound]
+   9357 [kworker/u16:1-events_unbound]
+     44 [kworker/u16:2-events_unbound]
+   8846 [kworker/u16:4-events_unbound]
+     84 [kworker/u17:0-i915_flip]
+    454 [kworker/u17:2-hci0]
+   1140 lxqt-session
+     18 [migration/0]
+     29 [migration/1]
+     23 [migration/2]
+     35 [migration/3]
+     45 [oom_reaper]
+   3026 /opt/chromium.org/thorium/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/zanaty/.config/thorium/Crash Reports --annotation=channel=stable, built on Ubuntu (AVX) --annotation=lsb-release=Ubuntu 24.04 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=126.0.6478.231 --initial-client-fd=5 --shared-client-connection
+   3028 /opt/chromium.org/thorium/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/zanaty/.config/thorium/Crash Reports --annotation=channel=stable, built on Ubuntu (AVX) --annotation=lsb-release=Ubuntu 24.04 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=126.0.6478.231 --initial-client-fd=4 --shared-client-connection
+   3033 /opt/chromium.org/thorium/chrome-sandbox /opt/chromium.org/thorium/thorium --type=zygote --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable
+   3017 /opt/chromium.org/thorium/thorium 
+   3062 /opt/chromium.org/thorium/thorium --type=gpu-process --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   5071 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=104 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=1861024098 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   5720 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=145 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=2366588641 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   5731 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=146 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=2366639883 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   5746 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=147 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=2373410357 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   5757 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=148 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=2373860679 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   8997 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=173 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=3664535185 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   3789 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=61 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=1712448822 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   4403 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=92 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=1740559702 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   3234 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=18 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=1656266893 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   9481 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=197 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=4895537666 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   9497 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=198 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=4950206472 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   3636 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=45 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=1709084126 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   3876 /opt/chromium.org/thorium/thorium --type=renderer --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --extension-process --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=71 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=1712760609 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   3341 /opt/chromium.org/thorium/thorium --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=none --audio-codecs-from-edid=0 --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   3066 /opt/chromium.org/thorium/thorium --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   3068 /opt/chromium.org/thorium/thorium --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15622163031574722415,8728697985976261078,262144 --variations-seed-version
+   3034 /opt/chromium.org/thorium/thorium --type=zygote --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable
+   3036 /opt/chromium.org/thorium/thorium --type=zygote --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable
+   3032 /opt/chromium.org/thorium/thorium --type=zygote --no-zygote-sandbox --crashpad-handler-pid=3026 --enable-crash-reporter=,stable, built on Ubuntu (AVX) --change-stack-guard-on-fork=enable
+      3 [pool_workqueue_release]
+   9529 ps -eo pid,cmd --sort cmd
+    353 [psimon]
+   7971 [psimon]
+     17 [rcu_preempt]
+     13 [rcu_tasks_kthread]
+     14 [rcu_tasks_rude_kthread]
+     15 [rcu_tasks_trace_kthread]
+      1 /sbin/init splash
+    161 [scsi_eh_0]
+    163 [scsi_eh_1]
+    165 [scsi_eh_2]
+    168 [scsi_eh_3]
+    171 [scsi_eh_4]
+   1083 (sd-pam)
+   8275 /snap/discord/205/usr/share/discord/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/zanaty/snap/discord/205/.config/discord/Crashpad --url=https://f.a.k/e --annotation=_productName=discord --annotation=_version=0.0.65 --annotation=lsb-release=Ubuntu Core 24 --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=30.2.0 --initial-client-fd=47 --shared-client-connection
+   8303 /snap/discord/205/usr/share/discord/Discord --type=gpu-process --disable-seccomp-filter-sandbox --no-sandbox --crashpad-handler-pid=8275 --enable-crash-reporter=6cfee8fe-bfa4-4fa1-a74f-af8436c72114,no_channel --user-data-dir=/home/zanaty/snap/discord/205/.config/discord --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=3,i,91522109493247988,8025212322383409466,262144 --enable-features=kWebSQLAccess --disable-features=AllowAggressiveThrottlingWithWebSocket,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,MediaSessionService,SpareRendererForSitePerProcess,UseEcoQoSForBackgroundProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version
+   8537 /snap/discord/205/usr/share/discord/Discord --type=renderer --crashpad-handler-pid=8275 --enable-crash-reporter=6cfee8fe-bfa4-4fa1-a74f-af8436c72114,no_channel --user-data-dir=/home/zanaty/snap/discord/205/.config/discord --secure-schemes=disclip,sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip,sentry-ipc --app-path=/snap/discord/205/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --disable-seccomp-filter-sandbox --no-sandbox --autoplay-policy=no-user-gesture-required --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1724622307098210 --launch-time-ticks=3623715854 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,91522109493247988,8025212322383409466,262144 --enable-features=kWebSQLAccess --disable-features=AllowAggressiveThrottlingWithWebSocket,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,MediaSessionService,SpareRendererForSitePerProcess,UseEcoQoSForBackgroundProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --enable-node-leakage-in-renderers
+   8563 /snap/discord/205/usr/share/discord/Discord --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=8275 --enable-crash-reporter=6cfee8fe-bfa4-4fa1-a74f-af8436c72114,no_channel --user-data-dir=/home/zanaty/snap/discord/205/.config/discord --secure-schemes=disclip,sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip,sentry-ipc --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,91522109493247988,8025212322383409466,262144 --enable-features=kWebSQLAccess --disable-features=AllowAggressiveThrottlingWithWebSocket,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,MediaSessionService,SpareRendererForSitePerProcess,UseEcoQoSForBackgroundProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version
+   8315 /snap/discord/205/usr/share/discord/Discord --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=8275 --enable-crash-reporter=6cfee8fe-bfa4-4fa1-a74f-af8436c72114,no_channel --user-data-dir=/home/zanaty/snap/discord/205/.config/discord --secure-schemes=disclip,sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip,sentry-ipc --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,91522109493247988,8025212322383409466,262144 --enable-features=kWebSQLAccess --disable-features=AllowAggressiveThrottlingWithWebSocket,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,MediaSessionService,SpareRendererForSitePerProcess,UseEcoQoSForBackgroundProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version
+   8262 /snap/discord/205/usr/share/discord/Discord --type=zygote --disable-seccomp-filter-sandbox --no-sandbox
+   8261 /snap/discord/205/usr/share/discord/Discord --type=zygote --no-zygote-sandbox --disable-seccomp-filter-sandbox --no-sandbox
+   8119 /snap/discord/205/usr/share/discord/Discord --use-tray-icon --no-sandbox --disable-seccomp-filter-sandbox
+   1234 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 13 --address=unix:path=/run/user/1000/at-spi/bus_0
+   1097 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+   5886 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+   1096 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+   9404 /usr/bin/kglobalaccel5
+   1217 /usr/bin/lubuntu-update
+   1223 /usr/bin/lxqt-globalkeysd
+   1225 /usr/bin/lxqt-notificationd
+   1226 /usr/bin/lxqt-panel
+   1227 /usr/bin/lxqt-policykit-agent
+   1426 /usr/bin/lxqt-powermanagement
+   1228 /usr/bin/lxqt-runner
+   1428 /usr/bin/nm-tray
+   1207 /usr/bin/openbox
+   1222 /usr/bin/pcmanfm-qt --desktop --profile=lxqt
+   1091 /usr/bin/pipewire
+   1092 /usr/bin/pipewire -c filter-chain.conf
+   1095 /usr/bin/pipewire-pulse
+   1213 /usr/bin/python3 /usr/bin/blueman-applet
+   1384 /usr/bin/python3 /usr/bin/blueman-tray
+   1242 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+    916 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+   2065 /usr/bin/qterminal
+    928 /usr/bin/sddm
+   1186 /usr/bin/ssh-agent /usr/bin/startlxqt
+   1094 /usr/bin/wireplumber
+   1236 /usr/bin/xscreensaver -no-splash
+    690 /usr/libexec/accounts-daemon
+   1259 /usr/libexec/at-spi2-registryd --use-gnome-session
+   1211 /usr/libexec/at-spi-bus-launcher --launch-immediately
+    714 /usr/libexec/bluetooth/bluetoothd
+   1385 /usr/libexec/bluetooth/obexd
+   1941 /usr/libexec/dconf-service
+   5827 /usr/libexec/fwupd/fwupd
+   1215 /usr/libexec/geoclue-2.0/demos/agent
+   1329 /usr/libexec/gvfs-afc-volume-monitor
+   1280 /usr/libexec/gvfsd
+   9051 /usr/libexec/gvfsd-computer --spawner :1.28 /org/gtk/gvfs/exec_spaw/10
+   1895 /usr/libexec/gvfsd-dnssd --spawner :1.28 /org/gtk/gvfs/exec_spaw/3
+   1289 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+   9077 /usr/libexec/gvfsd-metadata
+   1878 /usr/libexec/gvfsd-network --spawner :1.28 /org/gtk/gvfs/exec_spaw/1
+   1290 /usr/libexec/gvfsd-trash --spawner :1.28 /org/gtk/gvfs/exec_spaw/0
+   1314 /usr/libexec/gvfs-goa-volume-monitor
+   1324 /usr/libexec/gvfs-gphoto2-volume-monitor
+   1319 /usr/libexec/gvfs-mtp-volume-monitor
+   1308 /usr/libexec/gvfs-udisks2-volume-monitor
+   1013 /usr/libexec/rtkit-daemon
+    738 /usr/libexec/switcheroo-control
+    741 /usr/libexec/udisks2/udisksd
+   1400 /usr/libexec/upowerd
+   1780 /usr/libexec/xdg-desktop-portal
+   1796 /usr/libexec/xdg-desktop-portal-gtk
+   1809 /usr/libexec/xdg-desktop-portal-lxqt
+   1785 /usr/libexec/xdg-document-portal
+   1135 /usr/libexec/xdg-permission-store
+    735 /usr/lib/polkit-1/polkitd --no-debug
+   6888 /usr/lib/snapd/snapd
+    300 /usr/lib/systemd/systemd-journald
+    689 /usr/lib/systemd/systemd-logind
+    586 /usr/lib/systemd/systemd-resolved
+    587 /usr/lib/systemd/systemd-timesyncd
+    349 /usr/lib/systemd/systemd-udevd
+   1082 /usr/lib/systemd/systemd --user
+   9397 /usr/lib/x86_64-linux-gnu/libexec/kactivitymanagerd
+   6880 /usr/lib/x86_64-linux-gnu/libexec/kf5/kscreen_backend_launcher
+   1804 /usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde
+   1079 /usr/lib/x86_64-linux-gnu/sddm/sddm-helper --socket /tmp/sddm-auth-911e9505-0bfe-442a-b069-20faa652691c --id 1 --start /usr/bin/startlxqt --user zanaty
+    933 /usr/lib/xorg/Xorg -nolisten tcp -background none -seat seat0 vt2 -auth /run/sddm/xauth_hLGhMB -noreset -displayfd 16
+    715 /usr/sbin/cron -f -P
+    937 /usr/sbin/cups-browsed
+    913 /usr/sbin/cupsd -l
+    944 /usr/sbin/kerneloops
+    941 /usr/sbin/kerneloops --test
+    812 /usr/sbin/ModemManager
+    793 /usr/sbin/NetworkManager --no-daemon
+    760 /usr/sbin/rsyslogd -n -iNONE
+    740 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+    794 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+     63 [watchdogd]
+    426 [wl_event_handler]
+   1267 xscreensaver-systemd
